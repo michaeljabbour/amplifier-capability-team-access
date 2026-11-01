@@ -2,11 +2,11 @@
 
 See who has access. Apply the roster you intended.
 
-Watch the [72-second film](https://michaeljabbour.github.io/amplifier-tool-team-access/#film): keys handed to whoever knocks, and how one roster file shows who has access before anything changes. The example in it is fictional.
+Watch the [72-second film](https://michaeljabbour.github.io/amplifier-capability-team-access/#film): keys handed to whoever knocks, and how one roster file shows who has access before anything changes. The example in it is fictional.
 
 For GitHub repository maintainers. Team Access compares a YAML roster with collaborators and invitations, shows permission drift and applies the changes you authorize through the stable addteam command.
 
-[Explore the site](https://michaeljabbour.github.io/amplifier-tool-team-access/)
+[Explore the site](https://michaeljabbour.github.io/amplifier-capability-team-access/)
 
 ## What you get
 
@@ -17,8 +17,8 @@ For GitHub repository maintainers. Team Access compares a YAML roster with colla
 ## Start here
 
 ```sh
-git clone https://github.com/michaeljabbour/amplifier-tool-team-access.git
-cd amplifier-tool-team-access
+git clone https://github.com/michaeljabbour/amplifier-capability-team-access.git
+cd amplifier-capability-team-access
 python3 -m venv .venv
 .venv/bin/python -m pip install .
 .venv/bin/addteam --help
