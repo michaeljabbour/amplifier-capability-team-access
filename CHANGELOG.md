@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased — optional coaching checkpoint
+
+- Add a self-contained opt-in practice/review guide with a fictional task, preserved baseline, explicit scope/budget, user stop, reviewed keep/revert and private-by-choice records. Keep native operations, existing method budgets and evidence rules unchanged; no human efficacy or outside-use result is claimed.
+
 ## 2026-10-30 — Documentation: mutating-command guidance
 
 - Document that bare `addteam`, `--sync` and `addteam accept` are mutating (and that `accept` auto-confirms when non-interactive); hosts must require authorization and preview with `-n/--dry-run` first. Documentation only; no behavior change.
